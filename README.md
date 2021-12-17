@@ -24,13 +24,7 @@ The new system architecture based on DPU/IPU is fully capable of running indepen
 
 This arrangement solves multiple problems extant in current infrastructure. It restores the separation of concerns between infrastructure and application and solves an acute business problem for many enterprises. Specifically, the infrastructure workloads, now executing on the DPU/IPU, are independently managed by the Infrastructure, NetOps, and SecOps teams while the applications can be managed by a DevOps team.
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
+![Backgrounder Image](/Assets/Backgrounder.png)
 
 It prevents unexpected variations in the compute requirements of the applications from interfering with the infrastructure services and vice-versa while greatly simplifying node size estimation when provisioning and allocating nodes at scale.
 
