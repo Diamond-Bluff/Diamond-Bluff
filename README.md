@@ -36,4 +36,10 @@ The proof of the power and leverage of an at scale DPU/IPU implementation has be
 
 But where will the right DPU/IPU software stack come from? And will it be a closed, walled garden, single vendor offering? Or will it be an open, collaborative, multi-vendor, innovation driven, ecosystem similar to what has occurred with the Kubernetes and Container environments?
 
-The Diamond Bluff project is being created to address these questions and to foster the emergence of such an open and creative software eco-system for DPU/IPU based cloud infrastructure. The project intends to delineate what a DPU/IPU is, to loosely define a framework(s) and architecture for a DPU/IPU-based software stack(s) applicable to any vendors hardware solution, to integrate with existing open source projects aligned to the same vision such as the Linux kernel and[ IPDK.io](https://ipdk.io) and create new APIs for interaction with and between the elements of the DPU/IPU ecosystem: the DPU/IPU hardware, DPU/IPU hosted applications, the host Node, remote provisioning software, and remote orchestration software.
+The Diamond Bluff project is being created to address these questions and to foster the emergence of such an open and creative software eco-system for DPU/IPU based cloud infrastructure. The project intends to delineate what a DPU/IPU is, to loosely define a framework(s) and architecture for a DPU/IPU-based software stack(s) applicable to any vendors hardware solution, to integrate with existing open source projects aligned to the same vision such as the Linux kernel and[ IPDK.io](https://ipdk.io) and create new APIs for interaction with and between the elements of the DPU/IPU ecosystem:
+
+* the DPU/IPU hardware
+* DPU/IPU hosted applications
+* the host Node
+* remote provisioning software
+* remote orchestration software
