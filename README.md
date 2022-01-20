@@ -10,10 +10,10 @@ frameworks based on DPU/IPU-like technologies.
 A new class of cloud and datacenter infrastructure is emerging into the
 marketplace. This new infrastructure element, often referred as Data Processing
 Unit (DPU) or Infrastructure Processing Unit (IPU), takes the form of a server
-hosted PCIe add-in card containing one or more ASIC’s, usually anchored around
-a single powerful SoC device. The DPU/IPU-like devices have their roots in the
-evolution of SmartNIC devices but separate themselves from that legacy in
-several important ways.
+hosted PCIe add-in card or on-board chip(s), containing one or more ASIC’s or
+FPGA's, usually anchored around a single powerful SoC device. The DPU/IPU-like
+devices have their roots in the evolution of SmartNIC devices but separate
+themselves from that legacy in several important ways.
 
 While a Smart NIC is clearly part of its host node’s compute system and exists
 to closely interact with and offload node hosted applications, the DPU/IPU
@@ -89,10 +89,11 @@ The Diamond Bluff project is being created to address these questions and to
 foster the emergence of such an open and creative software eco-system for
 DPU/IPU based cloud infrastructure. The project intends to delineate what a
 DPU/IPU is, to loosely define a framework(s) and architecture for a
-DPU/IPU-based software stack(s) applicable to any vendors hardware solution, to
-integrate with existing open source projects aligned to the same vision such as
-the Linux kernel and[ IPDK.io](https://ipdk.io) and create new APIs for
-interaction with and between the elements of the DPU/IPU ecosystem:
+DPU/IPU-based software stack(s) applicable to any vendors hardware solution,
+allowing the creation of a rich open source application ecosystem, to integrate
+with existing open source projects aligned to the same vision such as the Linux
+kernel and[ IPDK.io](https://ipdk.io) and create new APIs for interaction with
+and between the elements of the DPU/IPU ecosystem:
 
 * the DPU/IPU hardware
 * DPU/IPU hosted applications
