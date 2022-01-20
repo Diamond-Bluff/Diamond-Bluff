@@ -90,7 +90,7 @@ foster the emergence of such an open and creative software eco-system for
 DPU/IPU based cloud infrastructure. The project intends to delineate what a
 DPU/IPU is, to loosely define a framework(s) and architecture for a
 DPU/IPU-based software stack(s) applicable to any vendors hardware solution,
-allowing the creation of a rich open source application ecosystem, to integrate
+to allow the creation of a rich open source application ecosystem, to integrate
 with existing open source projects aligned to the same vision such as the Linux
 kernel and[ IPDK.io](https://ipdk.io) and create new APIs for interaction with
 and between the elements of the DPU/IPU ecosystem:
