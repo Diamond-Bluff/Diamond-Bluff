@@ -97,6 +97,6 @@ with and between the elements of the DPU/IPU ecosystem:
 
 * the DPU/IPU hardware
 * DPU/IPU hosted applications
-* the host Node
+* the host node
 * remote provisioning software
 * remote orchestration software
