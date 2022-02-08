@@ -23,7 +23,7 @@ Foundation) at any level to participate in the Diamond Bluff project.
 
 Platinum, Silver and Participating Academic Members shall be entitled to:
 
-* Participate in the Diamond Bluff Project memtings, initiatives, events and
+* Participate in the Diamond Bluff Project meetings, initiatives, events and
   any other activities.
 * Identify their company or academic institution as a member or participant in
   the Diamond Bluff project.
