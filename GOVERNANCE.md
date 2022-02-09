@@ -45,7 +45,8 @@ The Diamond Bluff project Board of Directors shall be composed as follows:
 
 * One representative from each Platinum member.
 * One Silver member representative elected annually by the Silver members for
-  every 5 Silver members, with at least one representative, and no more than 3.
+  every 5 (or fraction thereof) Silver members, with at least one
+  representative, and no more than 3.
 
 The Board of Directors shall have the following responsibilities:
 
@@ -75,30 +76,95 @@ The Board of Directors shall::
   by the Diamond Bluff Board of Directors and confirmed by the project's
   foundation.
 
+For any of the above responsibilities, the Board may delegate their powers to
+one or more parties as appropriate and necessary, under terms set by the Board.
+
 ### Technical Steering Committee
 
-The Diamond Bluff Technical Steering Committee shall be composed as follows:
+Members of the Diamond Bluff Technical Steering Committee (TSC) decide
+technical matters that affect the entire project, administer joint
+project-wide technical resources, and act as a final arbiter of technical
+matters that are not decided inside individual subprojects.
+
+#### TSC Membership
+
+All TSC members must be currently contributing engineers, documentation
+writers, test platform adminstrators, specification editors, or other direct
+technical contributors to one or more subprojects. TSC members need not be
+employees of sponsoring organizations.
+
+During the first year of of the project, The TSC shall be composed as follows:
 
 * One appointed representative from each Platinum member
-* A maintainer from each Diamond Bluff sub-project
+* One maintainer from each Diamond Bluff sub-project, selected by the Board
 
-In addition, anyone can participate on the Technical Steering Committee by
-contributing to the technical community and becoming a maintainer of a
-sub-project.
+Starting one year after the launch of the Diamond Bluff governance, the TSC
+composition will become:
+
+* Two maintainers from each Diamond Bluff sub-project
+* Two technical contributors appointed by the Board
+
+Membership in the TSC will gradually transition to a model of elected
+subproject technical leadership, starting in the second year of the project.
+Details for this transition will be decided by the Board.
+
+Starting in the second year of the project, no individual may hold a seat on
+the Board and the TSC at the same time. No more than 40% of TSC members may be
+employed by the same organization.
+
+Should any TSC member cease regular technical contributions, their membership
+will terminate at the next regular annual selection date. If a TSC member
+violates the Code of Conduct, they may be removed from the TSC by the Code of
+Conduct Committee.
+
+#### TSC Responsibilities
 
 The responsibilities of the Diamond Bluff Technical Steering Committee are
 as follows:
 
 * Coordinating the technical direction of the Diamond Bluff Project
-* In coordination with the Board of Directors, approving new sub-projects for
-  creation under the Diamond Bluff organization.
-* Helping to identify maintainers of sub-projects, and ensure they have the
-  technical support necessary to be successful in their role as a maintainer.
+* Nominating and reviewing new sub-projects for creation under the Diamond
+  Bluff organization after final approval by the Board.
+* Confirming selected maintainers in the sub-projects, and ensuring they have
+  the technical support necessary to be successful in their role as a
+  maintainer.
 * Communicating with external and industry organizations concering Diamond
   Bluff technical matters.
 * Appointing represenatives to work with other open source or open standards
   communities.
-* Voting on technical matters relating to the code base of all sub-projects.
+* Voting on technical matters relating to any common code base or
+  specifications affecting all sub-projects.
+* Adminstering common technical resources, such as repository hosting and the
+  testing infrastructure.
+* Acting as "court of final appeal" for technical matters which are not
+  resolved through normal decision mechanisms within the individual
+  subprojects.
+* Coordinating response to security issues and ensuring that all subprojects
+  are reasonably secure.
+
+For any of the above responsibilities, the TSC may delegate their powers to one
+or more parties as appropriate and necessary, under terms set by the TSC.
+
+#### TSC Meetings
+
+The TSC shall hold one or more public meetings each month. All contributors
+to, or sponsors of, Diamond Bluff shall be entitled to attend these meetings.
+Public meetings will have a public agenda to which members of the community may
+reasonably add items.
+
+The TSC may also have private meetings from time to time, particularly when
+discussing security response or settling escalated disputes. All TSC members
+will be included in private meetings.
+
+### Code of Conduct Committee
+
+The Board will appoint or elect three or more individuals to serve as a Code of
+Conduct Committee (COCC). Committee members may also be members of the Board or
+the TSC, or they may be outside parties (paid or unpaid) with expertise in code
+of conduct (CoC) enforcement, or just members of the community. The CoCC should
+be selected to represent the diversity of the community.
+
+The CoCC will establish fair and standard processes for handling reports of violations of the CoC, as well as a system of remedies, in order to protect the well-being of the project. The CoCC will recommend the appropriate resolution to the Board, up to and including the removal of any individual from participation, either temporarily or permanently. Should a member of the CoCC itself be accused of a violation, that accusation will be handled by an individual appointed by the foundation.
 
 ## Voting
 
@@ -109,6 +175,8 @@ Decisions by vote shall be based on a majority vote only when sixty percent
 (>= 60$) or greater of the Board of Directors representatives are either
 present or particiapting electronically. In the event of a tied vote, the Chair
 shall be entitiled to submit a tie-breaking vote
+All elections shall be held using an online preference election mechanism to be
+selected and approved by the Board.
 
 ## Budget
 
