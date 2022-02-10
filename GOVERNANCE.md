@@ -168,15 +168,15 @@ The CoCC will establish fair and standard processes for handling reports of viol
 
 ## Voting
 
-While is the goal of the project to strive for consensus as a community, if any
-decision requires a vote to move forward, the Board of Directors members shall
-be entitled to vote on a one vote per representative basis.
-Decisions by vote shall be based on a majority vote only when sixty percent
-(>= 60$) or greater of the Board of Directors representatives are either
-present or particiapting electronically. In the event of a tied vote, the Chair
-shall be entitiled to submit a tie-breaking vote
-All elections shall be held using an online preference election mechanism to be
-selected and approved by the Board.
+While it is the goal of the project to strive for consensus as a community, if
+any decision requires a vote to move forward, either the Board of Directors
+members or the Technical Steering Committee members shall be entitled to vote
+on a one vote per representative basis. Decisions by vote shall be based on a
+majority vote only when sixty percent (>= 60$) or greater of the voting body
+representatives are either present or particiapting electronically. In the
+event of a tied vote, the Chair shall be entitiled to submit a tie-breaking
+vote. All elections shall be held using an online preference election mechanism
+to be selected and approved by the Board.
 
 ## Budget
 
