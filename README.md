@@ -92,8 +92,9 @@ DPU/IPU is, to loosely define a framework(s) and architecture for a
 DPU/IPU-based software stack(s) applicable to any vendors hardware solution,
 to allow the creation of a rich open source application ecosystem, to integrate
 with existing open source projects aligned to the same vision such as the Linux
-kernel and [IPDK.io](https://ipdk.io) and to create new APIs for interaction
-with and between the elements of the DPU/IPU ecosystem:
+kernel, [IPDK.io](https://ipdk.io), [DPDK](https://www.dpdk.org/) and
+[SPDK](https://spdk.io/) to create new APIs for interaction with and between
+the elements of the DPU/IPU ecosystem:
 
 * the DPU/IPU hardware
 * DPU/IPU hosted applications
