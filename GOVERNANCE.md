@@ -56,7 +56,7 @@ The Board of Directors shall have the following responsibilities:
   authorize expenditures approved by the budget, and manage any day-to-day
   operations, and vote on decisions or matters before the Board of Directors.
 
-The Board of Directors shall::
+The Board of Directors shall:
 
 * Demonstrate plans and the means to coordinate with the open source project’s
   developer community, including on topics such as branding, logos, and other
@@ -84,13 +84,13 @@ one or more parties as appropriate and necessary, under terms set by the Board.
 Members of the Diamond Bluff Technical Steering Committee (TSC) decide
 technical matters that affect the entire project, administer joint
 project-wide technical resources, and act as a final arbiter of technical
-matters that are not decided inside individual subprojects.
+matters that are not decided inside individual sub-projects.
 
 #### TSC Membership
 
 All TSC members must be currently contributing engineers, documentation
 writers, test platform adminstrators, specification editors, or other direct
-technical contributors to one or more subprojects. TSC members need not be
+technical contributors to one or more sub-projects. TSC members need not be
 employees of sponsoring organizations.
 
 During the first year of of the project, The TSC shall be composed as follows:
@@ -105,7 +105,7 @@ composition will become:
 * Two technical contributors appointed by the Board
 
 Membership in the TSC will gradually transition to a model of elected
-subproject technical leadership, starting in the second year of the project.
+sub-project technical leadership, starting in the second year of the project.
 Details for this transition will be decided by the Board.
 
 Starting in the second year of the project, no individual may hold a seat on
@@ -138,8 +138,8 @@ as follows:
   testing infrastructure.
 * Acting as "court of final appeal" for technical matters which are not
   resolved through normal decision mechanisms within the individual
-  subprojects.
-* Coordinating response to security issues and ensuring that all subprojects
+  sub-projects.
+* Coordinating response to security issues and ensuring that all sub-projects
   are reasonably secure.
 
 For any of the above responsibilities, the TSC may delegate their powers to one
