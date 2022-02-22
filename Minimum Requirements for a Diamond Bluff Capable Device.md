@@ -1,4 +1,4 @@
-### Minimum Requirements for a Diamond Bluff Capable Device
+# Minimum Requirements for a Diamond Bluff Capable Device
 
 - Contains a general purpose processor
 - Has the ability to boot a general purpose Operating System
