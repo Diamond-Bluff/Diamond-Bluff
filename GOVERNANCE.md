@@ -159,7 +159,7 @@ will be included in private meetings.
 ### Code of Conduct Committee
 
 The Board will appoint or elect three or more individuals to serve as a Code of
-Conduct Committee (COCC). Committee members may also be members of the Board or
+Conduct Committee (CoCC). Committee members may also be members of the Board or
 the TSC, or they may be outside parties (paid or unpaid) with expertise in code
 of conduct (CoC) enforcement, or just members of the community. The CoCC should
 be selected to represent the diversity of the community.
@@ -186,7 +186,7 @@ mission of the Diamond Bluff project's foundation. The foundation shall provide
 regular reports of spend levels against the budget.
 
 ## Amendments
-This governiing document may be amended by a super majority vote of all Board
+This governing document may be amended by a super majority vote of all Board
 of Director members, subject to approval by foundation the project is a part
 of. A super majority vote is defined as a vote in favor by 70% or great of the
 Board of Directors, ignoring any abstentions.
