@@ -17,15 +17,15 @@ own set of responsibilities, to help manage the Diamond Bluff project.
 ## Membership
 
 The Diamond Bluff project is composed of Platinum, Silver, and Participating
-Academic members. All Platinum and Silver members must be current corporate
+Academic/Nonprofit members. All Platinum and Silver members must be current corporate
 members of the hosting foundation (e.g. Linux Foundation or Open Infrastructure
 Foundation) at any level to participate in the Diamond Bluff project.
 
-Platinum, Silver and Participating Academic Members shall be entitled to:
+Platinum, Silver, and Participating Academic/Nonprofit Members shall be entitled to:
 
-* Participate in the Diamond Bluff Project meetings, initiatives, events and
+* Participate in the Diamond Bluff Project meetings, initiatives, events, and
   any other activities.
-* Identify their company or academic institution as a member or participant in
+* Identify their company or academic/nonprofit institution as a member or participant in
   the Diamond Bluff project.
 * Platinum members shall be entitled to appoint a representative to the
   Board of Directors of the Diamond Bluff project, as well as any future
