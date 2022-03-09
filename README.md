@@ -5,6 +5,18 @@ The objective of the Diamond Bluff initiative is to foster a community-driven
 standards-based open ecosystem for next generation architectures and
 frameworks based on DPU/IPU-like technologies.
 
+# **Diamond Bluff Project Goals**
+
+* Create community-driven standards-based open ecosystem for DPU/IPU-like
+  technologies
+* Create vendor agnostic framework and architecture for DPU/IPU-based software
+  stacks
+* Reuse existing or define a set of new common APIs for DPU/IPU-like
+  technologies when required
+* Provide implementation examples to validate the architectures/APIs
+
+For more details, see the full [page](GOALS.md).
+
 # **Diamond Bluff Project Backgrounder**
 
 A new class of cloud and datacenter infrastructure is emerging into the
