@@ -1,4 +1,4 @@
-# **Detail Goals for Diamond Bluff**
+# **Detailed Goals for Diamond Bluff**
 
 * Create community-driven standards-based open ecosystem for DPU/IPU-like
   technologies
