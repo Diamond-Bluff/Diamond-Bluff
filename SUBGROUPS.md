@@ -3,6 +3,7 @@
 ## Subgroup Template
 * [Group Name]
    * [Description & Responsibilities]
+   * [Alignment to project goal(s)]
    * [Leader]
    * [Meeting Time & Date]
    * [Slack channel]
@@ -15,6 +16,7 @@
         Bluff’s shared files, membership information, group deliverables, main
         meeting, main meeting agenda, meeting minutes, meeting recordings,
         GitHub rights, and community standards.
+   * Alignment to project goal(s) -- Workgroup leader: Please update this bullet
    * Leader
       * Paul Pindell
    * Meeting Time & Date
@@ -27,10 +29,11 @@
 ## Vision Statement/Goals group
    * Description & Responsibilities
       * Maintain Vision Statement and Goals Documents
+   * Alignment to project goal(s) -- Workgroup leader: Please update this bullet
    * Leader
-      * David Baylor
+      * Yan Fisher
    * Meeting Time & Date
-      * Mondays 11am-12pm PT
+      * Every other Monday at 11am-12pm PT
    * Slack Channel
       * [vision-subgroup](https://opi-project.slack.com/archives/C0344U70R8W)
    * Status
@@ -41,6 +44,7 @@
       * Create a developer platform for producing applications that run on
         DPU/IPU devices
       * Customer-driven vendor-neutral approach to PoC development
+   * Alignment to project goal(s) -- Workgroup leader: Please update this bullet
    * Leader
       * Steven Royer
    * Meeting Time & Date
@@ -57,6 +61,7 @@
         with.  Devices that do not meet these requirements may still use the
         Diamond Bluff components, but there may be deficiencies due to missing
         capabilities in the base hardware platform.
+   * Alignment to project goal(s) -- N/A
    * Leader
       * Tim Michels
    * Meeting Time & Date
@@ -72,6 +77,7 @@
       * Setting up governance model
       * Choosing a foundation to join
          * Linux Foundation
+   * Alignment to project goal(s) -- Workgroup leader: Please update this bullet
    * Leader
       * Yan Fisher
    * Meeting Time & Date
@@ -88,6 +94,7 @@
       * Discovery
       * OS environment installation to the D/IPU
       * service/software installation to the D/IPU
+   * Alignment to project goal(s) -- Workgroup leader: Please update this bullet
    * Leader
       * Boris Glimcher
    * Meeting Time & Date
@@ -103,6 +110,7 @@
         D/IPU
       * Both host system facing and control/management facing
       * Taxonomy: network, security, storage, ai/ml, gateway, …
+   * Alignment to project goal(s) -- Workgroup leader: Please update this bullet
    * Leader
       * Mark Sanders
    * Meeting Time & Date
@@ -115,6 +123,7 @@
 ## Use Case
    * Description & Responsibilities
       * This group is has not started meeting yet.
+   * Alignment to project goal(s) -- Workgroup leader: Please update this bullet
    * Leader
       * Elad Blatt
    * Meeting Time & Date
@@ -129,6 +138,7 @@
       * The charter of the subgroup is to plan, coordinate and execute DB
         community and other industry events as well as lead outreach, marketing
         and PR activities for DB
+   * Alignment to project goal(s) -- Workgroup leader: Please update this bullet
    * Leader
       * Paul Pindell
    * Meeting Time & Date
@@ -142,6 +152,7 @@
    * Description & Responsibilities
       * Coordinate overtures to new participants
       * Maintain orientation documents
+   * Alignment to project goal(s) -- Workgroup leader: Please update this bullet
    * Leader
       * Kris Murphy
    * Meeting Time & Date
