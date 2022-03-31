@@ -16,7 +16,9 @@
         Bluff’s shared files, membership information, group deliverables, main
         meeting, main meeting agenda, meeting minutes, meeting recordings,
         GitHub rights, and community standards.
-   * Alignment to project goal(s) -- Workgroup leader: Please update this bullet
+   * Alignment to project goal(s) 
+      * The Organization group is helping to create a community-driven standards-
+        based open ecosystem for DPU/IPU-like technologies.
    * Leader
       * Paul Pindell
    * Meeting Time & Date
@@ -135,10 +137,13 @@
 
 ## Events and Outreach
    * Description & Responsibilities
-      * The charter of the subgroup is to plan, coordinate and execute DB
-        community and other industry events as well as lead outreach, marketing
+      * The charter of the subgroup is to plan, coordinate, and execute DB
+        community and other industry events as well as lead outreach, marketing,
         and PR activities for DB
-   * Alignment to project goal(s) -- Workgroup leader: Please update this bullet
+   * Alignment to project goal(s)
+       * Establish an open community to support vendor-independent and jointly
+         co-developed ecosystem.
+       * 
    * Leader
       * Paul Pindell
    * Meeting Time & Date
